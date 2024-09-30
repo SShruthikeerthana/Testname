@@ -2,5 +2,6 @@ main(){
 add(){
   print("addition");}
   
-diff();
+diff(){
+  Print("diff");}
 }
