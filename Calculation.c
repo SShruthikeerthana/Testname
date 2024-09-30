@@ -1,4 +1,6 @@
 main(){
-add();
+add(){
+  print("addition");}
+  
 diff();
 }
